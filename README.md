@@ -1,0 +1,2 @@
+# static-lottery
+static lottery
